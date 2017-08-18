@@ -1,0 +1,5 @@
+# (x, y[, font, angle, justify], text)
+-156.33 19.19 9,Helvetica,black 0 BC Hawaii
+144.8   13.5  9,Helvetica,black 0 BC Guam
+
+# 110.00 12.00 12,Helvetica,red 0 BR South China Sea

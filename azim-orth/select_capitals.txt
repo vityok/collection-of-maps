@@ -1,0 +1,4 @@
+# Longitude # Latit      Capital
+125.75	     39.03 9,Helvetica,black 0 ML      Pyongyang
+106.85	     -6.21 9,Helvetica,black 0 ML      Jakarta
+116.40	     39.91 9,Helvetica,black 0 MR      Beijing
