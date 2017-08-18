@@ -6,8 +6,8 @@ More information is available in the [Wiki](https://bitbucket.org/vityok/collect
 Contents
 ========
 
-* `azim-orth` Demonstration of azimuthal orthographic
-  projection and missile ranges for Hwasong-12 ICBM.
+* `missile-range` Demonstration of azimuthal orthographic projection
+  (along some others) and missile ranges for Hwasong-12 ICBM.
 
 Resources
 =========
