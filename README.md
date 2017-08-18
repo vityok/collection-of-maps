@@ -4,7 +4,7 @@ using Generic Mapping Tools (GMT).
 Contents
 ========
 
-* `[azim-orth](azim-orth)` Demonstration of azimuthal orthographic
+* `azim-orth` Demonstration of azimuthal orthographic
   projection and missile ranges for Hwasong-12 ICBM.
 
 Resources
