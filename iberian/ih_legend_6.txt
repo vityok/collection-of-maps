@@ -1,0 +1,2 @@
+# File ih_legend_6.txt
+L 8 1 L Глибина

@@ -1,0 +1,2 @@
+# File ih_legend_7.txt
+L 8 1 L Висота

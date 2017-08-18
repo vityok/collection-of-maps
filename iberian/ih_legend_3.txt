@@ -1,0 +1,2 @@
+# File ih_legend_3.txt
+S 0.1c s 0.06c 0/0/0 - 0.35c \040
