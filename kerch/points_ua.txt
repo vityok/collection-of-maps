@@ -1,0 +1,17 @@
+# територіальні води: 12 морські милі (22.2 км; 13.8 сухопутні милі)
+# координати надані українською стороною
+
+# X-Long Y-Lat font(size,font,color) angle Justify TEXT 
+
+# Це сталося за координатами
+# {{coord|44|51|0|N|36|23|04|E|display=inline}}, таким чином, росіяни
+# атакували українські кораблі на відстані 23&nbsp;км від
+# берега.<ref>{{cite web
+# |url=https://www.unian.ua/war/10352406-u-merezhi-pokazali-koordinati-miscya-ataki-rosiyanami-ukrajinskih-kateriv-foto.html
+# |title=У мережі показали координати місця атаки росіянами
+# українських катерів |author= |date=2018-11-26 |website=www.unian.ua
+# |publisher=[[УНІАН]] |access-date=2018-11-28 |quote=}}</ref>
+
+
+
+36:23:04 44:51:0  9,Helvetica,black  0 TL Атака на "Бердянськ"
